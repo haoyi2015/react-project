@@ -1,0 +1,11 @@
+#react-webpack-simple-example
+---
+please run 
+```
+npm install
+```
+设置对es6  react jsx编译出错
+"presets": ["react", "es2015"],或
+ ```
+
+"presets": ["es2015", "stage-2"],

@@ -5,7 +5,9 @@
   "dependencies": {
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
+    "rc-cascader": "^0.10.4",
     "react": "^15.4.2",
+    "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2"
   },
   "devDependencies": {

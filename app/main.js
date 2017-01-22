@@ -7,5 +7,5 @@
  *
  */
 var React = require('react');
-var AppComponent = require('../productBox.js');
+var AppComponent = require('../app.js');
 //React.render(<AppComponent />, document.getElementById('content'));

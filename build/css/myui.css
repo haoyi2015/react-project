@@ -1,0 +1,21 @@
+.test .nav.nav-tabs{
+	background: #212121;
+}
+.test .nav-tabs>li>a{
+	color: #46c47b;
+}
+.test .nav-tabs>li.active>a, 
+.test .nav-tabs>li.active>a:focus,
+.test .nav-tabs>li.active>a:hover{
+	background: none;
+	color: #fff;
+	border: 0;
+	font-weight: bold;
+}
+.test .nav-tabs>li>a:hover{
+	background: none;
+	color: #fff;
+	border: #212121 solid 1px;
+	border-bottom: 0;
+	border-top: 0;
+}
